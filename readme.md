@@ -1,5 +1,7 @@
 # [AfA2026-PhysicalAI] SafeRide AI – Gig Worker Safety Platform
 
+![Cover](images/cover.png)
+
 SafeRide AI is an AI-powered embedded safety system for two-wheeler gig delivery workers, built on **Arduino UNO Q** with **Arduino App Lab**. The system performs real-time driving pattern classification, accident detection, SOS emergency response, and smartphone-based dashcam evidence logging—supporting safer mobility for millions of vulnerable workers.
 
 ---
