@@ -36,6 +36,8 @@ SafeRide AI combines:
 ### 1. Project Description  
 SafeRide AI is a real-time rider safety system that integrates embedded sensors with lightweight AI to classify risky driving patterns, detect crashes, trigger SOS emergencies, and log incident evidence. The platform is designed for gig delivery workers who operate without formal insurance protection, enabling safer rides and stronger financial inclusion.
 
+![Architecture](images/architecture_diagram.png)
+
 ---
 
 ### 2. Hardware Lineup  
@@ -134,7 +136,7 @@ SafeRide leverages the Arduino UNO Q dual-core architecture:
 
 ## 🎥 Visuals & Media  
 
-### Demo Video (2 min) : [LINK](Demo.mp4)
+### Demo Video (2 min) : [LINK](https://drive.google.com/file/d/1-iFlsQWMyJ-xewqoKgR4exkIk_fIQAvc/view)
 
 ---
 
@@ -152,8 +154,7 @@ SafeRide leverages the Arduino UNO Q dual-core architecture:
 ## 📋 PROJECT SUBMISSION
 
 - **GitHub Repository:** [LINK](https://github.com/hrsh-kr/AfA2026-PhysicalAI-SafeRide_AI)  
-- **Arduino Project Hub:** [LINK](https://create.arduino.cc/projecthub/yourusername/saferide-ai)  
-- **Demo Video (2 min):** [LINK](Demo.mp4)
+- **Demo Video (2 min):** [LINK](https://drive.google.com/file/d/1-iFlsQWMyJ-xewqoKgR4exkIk_fIQAvc/view)
 
 ---
 
